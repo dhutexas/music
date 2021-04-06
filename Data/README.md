@@ -1,3 +1,9 @@
+
+Available Data
+-----------------------
+
+Data dictionaries for the attached datasets are presented below.
+
 # Billboard Country Top 100
 
 | Column Name | Data Type | Description | Range |
