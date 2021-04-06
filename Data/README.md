@@ -11,4 +11,4 @@
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
-| `artist_name` | String | Name of artist (first name on a track) |  a thousand horses to zac brown band featuring jimmy buffett |
+| `artist_name` | String | Name of artist (first name on a track) |  a thousand horses to zac brown band |
