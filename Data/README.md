@@ -4,7 +4,7 @@ Available Data
 
 Data dictionaries for the attached datasets are presented below.
 
-# Billboard Country Top 100
+### Billboard Country Top 100
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
@@ -13,7 +13,7 @@ Data dictionaries for the attached datasets are presented below.
 | `Track` | String | Title of song | 'til summer comes around to yours if you want it |
 | `Year` | Integer | Four digit integer of the year chart represents | 2002 to 2020 |
 
-# Spotify Top Country Artists 2002-2020
+### Spotify Top Country Artists 2002-2020
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
