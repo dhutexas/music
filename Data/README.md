@@ -6,3 +6,9 @@
 | `Artist` | String | Name of artist or artists | a thousand horses to zac brown band featuring jimmy buffett  |
 | `Track` | String | Title of song | 'til summer comes around to yours if you want it |
 | `Year` | Integer | Four digit integer of the year chart represents | 2002 to 2020 |
+
+# Spotify Top Country Artists 2002-2020
+
+| Column Name | Data Type | Description | Range |
+|-------------|-----------|-----------|-------------|
+| `artist_name` | String | Name of artist (first name on a track) |  a thousand horses to zac brown band featuring jimmy buffett |
