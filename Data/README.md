@@ -4,7 +4,9 @@ Available Data
 
 Data dictionaries for the attached datasets are presented below.
 
-### Billboard Country Top 100 - billboard_country.csv
+### billboard_country.csv
+
+A dataset of the Billboard Top 100 Country songs at the end of the year. Data are scraped from Billboard.com and represent 2002-2020.
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
@@ -13,7 +15,9 @@ Data dictionaries for the attached datasets are presented below.
 | `Track` | String | Title of song | 'til summer comes around to yours if you want it |
 | `Year` | Integer | Four digit integer of the year chart represents | 2002 to 2020 |
 
-### Spotify Top Country Artists 2002-2020
+### country_top_100.csv
+
+A dataset matching track data from Spotify and lyric data from Genius Lyrics to the Billboard Top 100 Country songs for 2002-2020.
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
