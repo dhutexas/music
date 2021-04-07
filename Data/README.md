@@ -21,8 +21,12 @@ A dataset matching track data from Spotify and lyric data from Genius Lyrics to 
 
 | Column Name | Data Type | Description | Range |
 |-------------|-----------|-----------|-------------|
-| `artist_name` | String | Name of artist (first name on a track) |  a thousand horses to zac brown band |
-| `track_name` | String | Name of song |  a thousand horses to zac brown band |
+| `rank` | Integer | Rank of song |  a thousand horses to zac brown band |
+| `year` | Integer | Four digit year of ranking |  a thousand horses to zac brown band |
+| `artist` | String | Name of artist (complete set of listed artists) |  a thousand horses to zac brown band |
+| `first_artist` | String | Name of artist (first name on a track) |  a thousand horses to zac brown band |
+| `track_billboard` | String | Name of song on Billboard |  a thousand horses to zac brown band |
+| `track_spotify` | String | Name of song on Spotify |  a thousand horses to zac brown band |
 | `track_number` | Integer | Position of song on album |  a thousand horses to zac brown band |
 | `disc_number` | Integer | Position of disc in album |  a thousand horses to zac brown band |
 | `album_name` | String | Name of album |  a thousand horses to zac brown band |
@@ -47,3 +51,4 @@ A dataset matching track data from Spotify and lyric data from Genius Lyrics to 
 | `liveness` | Numeric | -- |  a thousand horses to zac brown band |
 | `valence` | Numeric | -- |  a thousand horses to zac brown band |
 | `tempo` | Numeric | -- |  a thousand horses to zac brown band |
+| `lyrics` | String | Full lyrics from Genius Lyrics |  a thousand horses to zac brown band |
