@@ -20,7 +20,7 @@ A dataset of the Billboard Top 100 Country songs at the end of the year. Data ar
 A dataset matching track data from Spotify and lyric data from Genius Lyrics to the Billboard Top 100 Country songs for 2002-2020.
 
 | Column Name | Data Type | Description |
-|-------------|-----------|-----------|-------------|
+|-------------|-----------|-----------|
 | `rank` | Integer | Rank of song | 
 | `year` | Integer | Four digit year of ranking |
 | `artist` | String | Name of artist (complete set of listed artists) |
