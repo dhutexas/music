@@ -8,12 +8,12 @@ Data dictionaries for the attached datasets are presented below.
 
 A dataset of the Billboard Top 100 Country songs at the end of the year. Data are scraped from Billboard.com and represent 2002-2020.
 
-| Column Name | Data Type | Description | Range |
-|-------------|-----------|-----------|-------------|
-| `Rank` | Integer | End-of-year rank out of 100 on Billboard.com Country music charts |  1 to 100 |
-| `Artist` | String | Name of artist or artists | a thousand horses to zac brown band featuring jimmy buffett  |
-| `Track` | String | Title of song | 'til summer comes around to yours if you want it |
-| `Year` | Integer | Four digit integer of the year chart represents | 2002 to 2020 |
+| Column Name | Data Type | Description | 
+|-------------|-----------|-----------|
+| `Rank` | Integer | End-of-year rank out of 100 on Billboard.com Country music charts | 
+| `Artist` | String | Name of artist or artists | 
+| `Track` | String | Title of song | 
+| `Year` | Integer | Four digit integer of the year chart represents |
 
 ### country_top_100.csv
 
@@ -37,7 +37,7 @@ A dataset matching track data from Spotify and lyric data from Genius Lyrics to 
 | `album_release_year` | Integer | Release year of album (YYYY) |  
 | `duration_ms` | Numeric | Length of song, in milliseconds | 
 | `danceability` | Numeric | -- |  
-| `energy` | Numeric | -- ) |  
+| `energy` | Numeric | -- |  
 | `key` | Integer | Numeric code for key song is performed in |  
 | `key_name` | String | Character value of key song is performed in | 
 | `key_mode` | String | Character value of key mode song is performed in | 
